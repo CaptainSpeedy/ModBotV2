@@ -1,0 +1,4 @@
+{ 
+    "token"  : "ODUwMjAwMTUyMjY5OTE0MTIz.YLmQmA.0GHYDO5TfiN1nzvf-OUTWg2fn6A", //Bot Token from discord developer portal. (Don't share with anyone)
+    "prefix" : "h!" //Choose a prefix for your bot like ! or ?
+}
